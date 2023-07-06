@@ -1,1 +1,2 @@
 # QT_Audio_Player_Prototype
+**The screen does consist of 3 sections (Header, Footer and Feature Screen), where the first part of feature screen is a Scrollable song list and the second part is a media player which consist of seek bar, play, next and previous song button which are interactable. Other than that the footer icons are interactable as well. As per the last commit, the songs are not playable and the selected songs detail are not shown on the feature screen, still working on signals & slots, and event system.**
