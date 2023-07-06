@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/rc">
+        <file>Imgs_Songs/1.jpg</file>
+        <file>Imgs_Songs/1.png</file>
+        <file>Imgs_Songs/580b57fcd9996e24bc43c4a1.png</file>
+        <file>Imgs_Songs/Avicii - The Nights.mp3</file>
+        <file>Imgs_Songs/High.jpg</file>
+        <file>Imgs_Songs/TE_Logo.jpg</file>
+        <file>Imgs_Songs/The Chainsmokers - High.mp3</file>
+        <file>Imgs_Songs/The Nights.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Imgs_Songs/cloudy-day.png</file>
+        <file>Imgs_Songs/compass (2).png</file>
+        <file>Imgs_Songs/google-photos.png</file>
+        <file>Imgs_Songs/menu.png</file>
+        <file>Imgs_Songs/musical-note.png</file>
+        <file>Imgs_Songs/phone-call.png</file>
+        <file>Imgs_Songs/steering-wheel.png</file>
+        <file>Imgs_Songs/backward-arrows-couple.png</file>
+        <file>Imgs_Songs/forward.png</file>
+        <file>Imgs_Songs/play-button-arrowhead.png</file>
+        <file>Imgs_Songs/music.png</file>
+        <file>Imgs_Songs/Bhediya- Baaki sab theek.jpg</file>
+        <file>Imgs_Songs/TwentyOne Pilots- Stressed Out.jpg</file>
+        <file>Imgs_Songs/Imagine Dragons- Sharks.jpg</file>
+        <file>Imgs_Songs/OneRepublic-counting Stars.jpg</file>
+        <file>Imgs_Songs/eminem- from the D2 the LBC.jpg</file>
+        <file>Imgs_Songs/GreenDay- Boulevard of Broken Dreams.jpg</file>
+        <file>Imgs_Songs/Butta_Bomma.jpg</file>
+        <file>Imgs_Songs/LP-Numb.jpg</file>
+        <file>Imgs_Songs/mental manadhil.jpg</file>
+    </qresource>
+</RCC>
